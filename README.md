@@ -12,4 +12,4 @@ Currently moving from backend engineering into **Solutions Engineering**.
 C# · ASP.NET Core · EF Core · PHP · Laravel · MySQL · PostgreSQL · Odoo · Git
 
 ### Find me
-[LinkedIn](https://www.linkedin.com/in/youssef-darweesh-a6a4bb285) · Portfolio (coming soon) · youremail@example.com
+[LinkedIn](https://www.linkedin.com/in/youssef-darweesh) · Portfolio (coming soon) · youremail@example.com
